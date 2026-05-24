@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="examples/sample_output.png" alt="Sample Infographic" width="720">
-</p>
-
 <h1 align="center">PDF to Infographic</h1>
 
 <p align="center">
